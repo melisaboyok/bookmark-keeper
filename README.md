@@ -23,6 +23,4 @@ To run the application, follow these steps:
 - HTML
 - CSS
 
-This project includes basic bookmark management functionality and can be extended or customized as needed.
-
 
